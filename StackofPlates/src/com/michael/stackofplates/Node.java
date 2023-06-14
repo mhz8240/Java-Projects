@@ -1,4 +1,4 @@
-package com.michael.dynamicarray;
+package com.michael.stackofplates;
 
 public class Node {
     public int data;

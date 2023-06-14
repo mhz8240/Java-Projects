@@ -1,4 +1,4 @@
-package com.michael.dynamicarray;
+package com.michael.stackofplates;
 
 import java.util.ArrayList;
 import java.util.Stack;
