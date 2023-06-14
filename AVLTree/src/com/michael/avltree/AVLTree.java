@@ -1,4 +1,4 @@
-package com.michael.dynamicarray;
+package com.michael.avltree;
 
 public class AVLTree {
     class Node {

@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a0887c8-2e0d-487e-bdf4-4fb7f3eee975" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/michael/dynamicarray/AVLTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/michael/dynamicarray/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BinaryHeap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BinaryHeap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/michael/dynamicarray/AVLTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/michael/avltree/AVLTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/michael/dynamicarray/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/michael/avltree/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +101,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="com.michael.dynamicarray.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.michael.avltree.Main" />
       <module name="AVLTree" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
