@@ -1,4 +1,4 @@
-package com.michael;
+package com.michael.bst1;
 
 public interface Tree<T> {
     public void add(T data);

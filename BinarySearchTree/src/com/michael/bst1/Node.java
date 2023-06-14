@@ -1,4 +1,4 @@
-package com.michael;
+package com.michael.bst1;
 
 public class Node<T> {
     private T data;
