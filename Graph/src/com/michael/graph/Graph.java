@@ -1,4 +1,4 @@
-package com.michael.dynamicarray;
+package com.michael.graph;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

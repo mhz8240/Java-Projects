@@ -1,4 +1,4 @@
-package com.michael.dynamicarray;
+package com.michael.graph;
 
 public class Main {
 
