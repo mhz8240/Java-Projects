@@ -1,4 +1,4 @@
-package com.michael.bst1;
+package com.michael.binarysearchtree1;
 
 public class BinarySearchTree<T extends Comparable<T>> implements Tree<T> {
     private Node<T> head;
