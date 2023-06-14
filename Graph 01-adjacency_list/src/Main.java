@@ -7,7 +7,7 @@ import java.util.*;
 public class Main{
     static int n;
     static int m;
-    static ArrayList<Integer>[] adj;
+    static ArrayList<Integer>[] adj; 
     static boolean[] visited;
     static int[] dist;
 
