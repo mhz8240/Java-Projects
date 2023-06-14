@@ -1,5 +1,4 @@
-package com.michael.dynamicarray;
-import java.io.*;
+package com.michael.jamesbondproblem;
 
 public class Alligators {
     public double x;

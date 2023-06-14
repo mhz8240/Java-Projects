@@ -1,4 +1,4 @@
-package com.michael.dynamicarray;
+package com.michael.jamesbondproblem;
 
 import java.io.*;
 import java.util.LinkedList;
