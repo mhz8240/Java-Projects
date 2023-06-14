@@ -1,4 +1,4 @@
-package com.michael.Avltree;
+package com.michael.AvlTree;
 
 public class Main {
 
