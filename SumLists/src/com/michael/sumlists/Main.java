@@ -1,6 +1,5 @@
-package com.michael.dynamicarray;
+package com.michael.sumlists;
 
-import javax.sound.sampled.Line;
 import java.util.LinkedList;
 
 public class Main {
