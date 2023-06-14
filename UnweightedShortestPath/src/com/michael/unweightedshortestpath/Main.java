@@ -1,4 +1,4 @@
-package com.michael.dynamicarray;
+package com.michael.unweightedshortestpath;
 
 import java.io.*;
 import java.util.*;
