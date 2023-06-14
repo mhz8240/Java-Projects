@@ -1,4 +1,4 @@
-package com.michael.dynamicarray;
+package com.michael.quicksort;
 
 public class QuickSort {
     public void quickSort(int[] iArray, int front, int back) {
