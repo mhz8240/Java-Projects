@@ -1,4 +1,4 @@
-package com.michael.dynamicarray;
+package com.michael.urlify;
 
 public class Main {
 
