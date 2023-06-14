@@ -1,4 +1,4 @@
-package com.michael.AvlTree;
+package com.michael.Avltree;
 
 public class AVLTree {
     class Node {
