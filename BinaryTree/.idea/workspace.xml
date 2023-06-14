@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0bcb674-1e4d-4a73-9dc7-376a9a8fef34" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/michael/dynamicarray/BinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/michael/dynamicarray/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BinaryTree/com/michael/dynamicarray/BinarySearchTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BinaryTree/com/michael/bst2/BinarySearchTree$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BinaryTree/com/michael/dynamicarray/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BinaryTree/com/michael/bst2/BinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BinaryTree/com/michael/dynamicarray/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BinaryTree/com/michael/bst2/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/michael/dynamicarray/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/michael/bst2/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/michael/dynamicarray/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/michael/bst2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +105,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.michael.dynamicarray.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.michael.bst2.Main" />
       <module name="BinaryTree" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />

@@ -1,4 +1,4 @@
-package com.michael.dynamicarray;
+package com.michael.bst2;
 
 public class Main {
 
