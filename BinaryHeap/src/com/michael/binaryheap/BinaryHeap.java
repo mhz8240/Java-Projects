@@ -1,4 +1,4 @@
-package com.michael.dynamicarray;
+package com.michael.binaryheap;
 
 import java.util.Arrays;
 import java.util.LinkedList;
