@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f34055a9-9d68-41d9-8f02-9cd57147f6bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Graph/src/com/michael/dynamicarray/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Graph/src/com/michael/dynamicarray/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Compressor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Compressor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +90,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Graph" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
