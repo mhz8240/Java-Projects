@@ -1,6 +1,4 @@
-package com.michael.dynamicarray;
-
-import java.util.ArrayList;
+package com.michael.stack;
 
 public class MyStack {
     private Node head = null;
