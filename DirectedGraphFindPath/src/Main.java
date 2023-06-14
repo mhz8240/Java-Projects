@@ -39,7 +39,7 @@ public class Main {
 
     public static boolean isConnected(Graph graph, int src, int dest, boolean[] discovered) {
         Queue<Integer> queue = new ArrayDeque<>();
-        discovered[src] = true; 
+        discovered[src] = true;
         queue.add(src);
         while (!queue.isEmpty()) {
             int v = queue.poll();
