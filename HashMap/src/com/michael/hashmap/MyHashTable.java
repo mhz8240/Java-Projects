@@ -1,4 +1,4 @@
-package com.michael.dynamicarray;
+package com.michael.hashmap;
 
 import java.util.Arrays;
 
