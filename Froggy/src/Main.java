@@ -12,10 +12,10 @@ public class Main {
 		// TODO Auto-generated method stub
 		Stack<Coordinate> stack = new Stack<>();
 		//grid: x goes from 1 to 3, y goes from 1,3
-		Coordinate c = new Coordinate(1,1);
+		Coordinate c = new Coordinate(2,2);
 		c.probability = 1.0;
 		stack.push(c);
-		double prob = dfs(stack, 2, 2);
+		double prob = dfs(stack, 1, 2);
 		//calculate the probability that the frog will leap to 2,2 before leaping off of the grid
 		System.out.println(prob);
 	}
