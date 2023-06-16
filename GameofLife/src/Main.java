@@ -20,7 +20,7 @@ public class Main extends JPanel implements ActionListener{
 		int gridLength = 800/arr.length;
 		for (int i = gridLength; i < 800; i += gridLength) {
 			g.drawLine(0, i, 800, i);
-			g.drawLine(i, 0, i, 800);
+			g.drawLine(i, 0, i, 800); 
 		}
 		for (int i = lowestX; i <= highestX; i++) {
 			for (int j = lowestY; j <= highestY; j++) {
