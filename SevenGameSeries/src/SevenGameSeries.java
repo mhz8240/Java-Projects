@@ -1,13 +1,13 @@
 
 public class SevenGameSeries {
 	private double homeWinProb;
-	private double roadWinProb;
+	private double roadWinProb;  
 	private double homeLoseProb;
-	private double roadLoseProb;
+	private double roadLoseProb; 
 	private boolean homeField;
 	public SevenGameSeries(int homeWinPercent, int roadWinPercent, boolean homeField) {
 		homeWinProb = homeWinPercent / 100.0;
-		roadWinProb = roadWinPercent / 100.0;
+		roadWinProb = roadWinPercent / 100.0;  
 		homeLoseProb = 1.00 - homeWinProb;
 		roadLoseProb = 1.00 - roadWinProb;
 		this.homeField = homeField;
